@@ -1,0 +1,2 @@
+rootProject.name = "S020_MovieSearcher"
+include ':app'
